@@ -3,6 +3,7 @@ import Chips from "./Chips";
 import Sardines from "./Sardines";
 import Soda from "./Soda";
 import VendingMachine from "./VendingMachine";
+import Navbar from "./Navbar";
 import { Route, Switch } from "react-router-dom";
 import "./App.css";
 
